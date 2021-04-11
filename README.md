@@ -1,6 +1,6 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=Full+Stack+Web+Developer;Senior+API+and+Backend+engineer;Blockchain+developer;Team+leader/Technical+partner." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Angular%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </h1>
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
