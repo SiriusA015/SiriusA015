@@ -14,11 +14,11 @@ I was actively involved in back-end development, front-end development, solution
 ## Achievements
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=GlistenSTAR&column=7" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=SiriusA015&column=7" />
 </p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
-<img align="right" src="https://img.shields.io/github/followers/GlistenSTAR?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/SiriusA015?label=Follow&style=social" />
 <h1 align="center"></h1>
 
 ### 🛠 &nbsp;Tech Stack
