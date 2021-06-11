@@ -18,3 +18,7 @@ I was actively involved in back-end development, front-end development, solution
     <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,react,redux,nextjs,nuxtjs,angular,vue,php,py,nodejs,java,webpack,django,flask,laravel,typescript,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,md,nginx,powershell,prisma,vscode,atom,androidstudio,git,github,linux,svg,unity,heroku,aws,docker,rust,solidity" />
   </a>
 </p>
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kingstar0126&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
+</p>
