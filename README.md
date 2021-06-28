@@ -11,12 +11,6 @@ My experienced industries include E-Commerce, Real Estate, Education, Booking Sy
 I was actively involved in back-end development, front-end development, solutions architecture, DevOps engineering, full stack development, technical product management.
 </p>
 
-## Achievements
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=SiriusA015&column=7" />
-</p>
-
 ### 🛠 &nbsp;Tech Stack
 
 <p align="center">
