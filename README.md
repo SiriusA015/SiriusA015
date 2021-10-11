@@ -20,5 +20,5 @@ I was actively involved in back-end development, front-end development, solution
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kingstar0126&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=SiriusA015&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
 </p>
