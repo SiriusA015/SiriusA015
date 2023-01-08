@@ -2,11 +2,11 @@
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-👋🏻 I’m a FullStack developer ✌🏻 <br/>
-👀 I’m interested in Blockchain, DSA, Open Source and Many more 😄<br/>
-🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
-👨🏻‍💻 Currently exploring Open Source field 📱</br>
-💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
+👋🏻 I’m a FullStack developer <br/>
+👀 I’m interested in Blockchain, DSA, Open Source and Many more <br/>
+🌱 Trying to learn new technologies and try to keep myself busy <br/>
+👨🏻‍💻 Currently exploring Open Source field </br>
+💞️ I’m open for collaboration on every interesting project/stuff <br/>
 
 ### 🛠 &nbsp;Tech Stack
 
