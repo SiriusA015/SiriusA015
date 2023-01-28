@@ -1,12 +1,13 @@
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
-
-👋🏻 I’m a FullStack developer ✌🏻 <br/>
-👀 I’m interested in Blockchain, DSA, Open Source and Many more 😄<br/>
-🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
-👨🏻‍💻 Currently exploring Open Source field 📱</br>
-💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
+<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+  <p>
+ A skilled blockchain engineer with 5 years of professional experience looking to contribute knowledge in web and blockchain technology. Proficient at performing well as working in a group or independently in a fast-paced setting. Deep understanding of distributed ledger, blockchain safety, blockchain design principles, and various blockchain protocols and environments. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using web3 and Solidity. Especially, got great success in NFT Game developemnt.
+</p>
+<p align="center">
+  <a href="https://github.com/SiriusA015"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web, Mobile%20Developer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+</p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
+<img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />
+<h1 align="center"></h1>
 
 ### 🛠 &nbsp;Tech Stack
 
