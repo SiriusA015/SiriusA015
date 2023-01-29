@@ -9,7 +9,7 @@
 </h1>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <p>
- I am a passionate full stack web and mobile app developer and have been involved in commercial software development using a variety of skills for the past 9 years.
+I am a passionate full stack web and mobile app developer and have been involved in commercial software development using a variety of skills for the past 9 years.
 My passion for software is to dream ideas and bring them to life with elegant interfaces and I pay a lot of attention to the experience, architecture and code quality of what I build.
 My experienced industries include E-Commerce, Real Estate, Education, Booking Systems(Hotel, Travel, Restaurant), Healthcare and Insurance, SAAS and so on.
 I was actively involved in back-end development, front-end development, solutions architecture, DevOps engineering, full stack development, technical product management. 
@@ -91,6 +91,18 @@ I was actively involved in back-end development, front-end development, solution
         <img src="./nestjs.png" width="30" height="30" alt="nest js" />
       </a>
       <br>Nest JS
+    </td>
+    <td align="center" width="60">
+      <a href="https://go.dev/doc/tutorial/getting-started">
+        <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="30" height="30" alt="Golang" />
+      </a>
+      <br>Golang
+    </td>
+    <td align="center" width="60">
+      <a href="https://go.dev/doc/tutorial/getting-started">
+        <img src="./python.png" width="30" height="30" alt="python" />
+      </a>
+      <br>Python
     </td>
     <td align="center" width="60">
       <a href="#nuxtjs" >
