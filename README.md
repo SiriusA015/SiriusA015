@@ -45,8 +45,8 @@ I was actively involved in back-end development, front-end development, solution
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
-    <td><img src="https://icons8.com/icon/40669/c%2B%2B" width="100"></td>  
     <td><img src="./c_sharp.png" width="100"></td>  
+    <td><img src="./opengl.svg" width="100"></td>  
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>    
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
     <td><img src="./postgresql.png" width="100" alt="Postgresql" /></td> 
