@@ -99,7 +99,7 @@ I was actively involved in back-end development, front-end development, solution
       <br>Golang
     </td>
     <td align="center" width="60">
-      <a href="https://go.dev/doc/tutorial/getting-started">
+      <a href="https://docs.python.org/3/tutorial/">
         <img src="./python.png" width="30" height="30" alt="python" />
       </a>
       <br>Python
@@ -135,10 +135,10 @@ I was actively involved in back-end development, front-end development, solution
       <br>MySQL
     </td>
     <td align="center" width="60">
-      <a href="#oracle">
-        <img src="./oracle.png" width="30" height="30" alt="Oracle" />
+      <a href="#postgresql">
+        <img src="./postgresql.png" width="30" height="30" alt="Postgresql" />
       </a>
-      <br>Oracle
+      <br>PostgreSql
     </td>
      <td align="center" width="60">
         <a href="#babylonjs">
