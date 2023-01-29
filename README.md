@@ -139,14 +139,7 @@ I was actively involved in back-end development, front-end development, solution
         <img src="./postgresql.png" width="30" height="30" alt="Postgresql" />
       </a>
       <br>PostgreSql
-    </td>
-     <td align="center" width="60">
-        <a href="#babylonjs">
-          <img src="./babylon.png" width="30" height="30"
-                alt="babylonjs"/>
-        </a>
-        <br>Babylon JS
-    </td>  
+    </td> 
   </tr>
    <tr>
     <td align="center" width="96">
@@ -161,6 +154,13 @@ I was actively involved in back-end development, front-end development, solution
       </a>
       <br>Cardano
     </td>
+    <td align="center" width="60">
+      <a href="#babylonjs">
+          <img src="./babylon.png" width="30" height="30"
+                alt="babylonjs"/>
+      </a>
+      <br>Babylon JS
+    </td> 
     <td align="center" width="96">
       <a href="#aws" >
         <img src="./aws.svg" width="30" height="30" alt="aws" />
