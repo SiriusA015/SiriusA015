@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <p>
  A skilled blockchain engineer with 5 years of professional experience looking to contribute knowledge in web and blockchain technology. Proficient at performing well as working in a group or independently in a fast-paced setting. Deep understanding of distributed ledger, blockchain safety, blockchain design principles, and various blockchain protocols and environments. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using web3 and Solidity. Especially, got great success in NFT Game developemnt.
@@ -8,6 +9,9 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />
 <h1 align="center"></h1>
+=======
+Technical challenges and new technologies always make me happy because of a strong passion about new things.
+>>>>>>> 009e8b30b8ca3d4145504734f8f35b8b1300ef70
 
 ### 🛠 &nbsp;Tech Stack
 
