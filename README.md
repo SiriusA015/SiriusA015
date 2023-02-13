@@ -20,7 +20,11 @@ I was actively involved in back-end development, front-end development, solution
 <h1 align="center"></h1>
 
 ### 🛠 &nbsp;Tech Stack
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,php,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,django,flask,laravel,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,md,nginx,powershell,prisma,vscode,atom,androidstudio,git,github,linux,svg,unity,vercel,heroku,aws,rust,solidity" />
+  </a>
+</p>
 <table align="center">
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
