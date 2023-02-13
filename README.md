@@ -1,8 +1,8 @@
 ## Overview
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiriusA015&theme=dark&github" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiriusA015&theme=dark&github" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiriusA015&theme=dark&github&utcOffset=8" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiriusA015&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiriusA015&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiriusA015&theme=github&utcOffset=8" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiriusA015&theme=github" />  
 </div>
 ## Achievements
