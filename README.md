@@ -16,7 +16,7 @@ I was actively involved in back-end development, front-end development, solution
 </p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
-<img align="right" src="https://img.shields.io/github/followers/SiriusA015?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/GlistenSTAR?label=Follow&style=social" />
 <h1 align="center"></h1>
 
 ### 🛠 &nbsp;Tech Stack
