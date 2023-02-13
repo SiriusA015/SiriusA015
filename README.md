@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="font-size:50px">
  <a href="https://github.com/CharmingDev777">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+and+Technical+Partner;Senior+API+and+Mobile+Developer;Golang+Engineer;Blockchain+and+Frontend+Engineer;&center=true&width=550&height=80&font=georgia">
 </a>
