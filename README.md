@@ -22,7 +22,7 @@ I was actively involved in back-end development, front-end development, solution
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,react,redux,nextjs,nuxtjs,angular,vue,php,py,nodejs,webpack,django,flask,laravel,typescript,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,md,nginx,powershell,prisma,vscode,atom,androidstudio,git,github,linux,svg,unity,vercel,heroku,aws,docker,ubuntu,rust,solidity,babylonjs,opengl" />
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,react,redux,nextjs,nuxtjs,angular,vue,php,py,nodejs,webpack,django,flask,laravel,typescript,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,md,nginx,powershell,prisma,vscode,atom,androidstudio,git,github,linux,svg,unity,vercel,heroku,aws,docker,ubuntu,rust,solidity,opengl" />
   </a>
 </p>
 <table align="center">
