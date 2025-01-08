@@ -3,12 +3,37 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Angular%20for%20the%20Front-End;Node.js,%20PHP,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </h1>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+<h1 align="center">Hi there! 👋 I'm a Full-Stack Developer & Casino Project Specialist</h1>
+
 <p>
-I am a passionate full stack web and mobile app developer and have been involved in commercial software development using a variety of skills for the past 9 years.
-My passion for software is to dream ideas and bring them to life with elegant interfaces and I pay a lot of attention to the experience, architecture and code quality of what I build.
-My experienced industries include E-Commerce, Real Estate, Education, Booking Systems(Hotel, Travel, Restaurant), Healthcare and Insurance, SAAS and so on.
-I was actively involved in back-end development, front-end development, solutions architecture, DevOps engineering, full stack development, technical product management.
+I am a seasoned full-stack web and mobile app developer with over <strong>9 years of experience</strong> in commercial software development. My passion lies in transforming ideas into reality through intuitive, high-quality software solutions that prioritize user experience, robust architecture, and clean, maintainable code.
+</p>
+
+<h2>💼 Industries I've Worked In</h2>
+<ul>
+  <li><strong>Casino Development</strong>: Successfully delivered several large-scale casino platforms with a focus on performance, security, and seamless user experiences. Currently working on an innovative casino project that integrates advanced gaming mechanics and blockchain technology.</li>
+  <li><strong>E-Commerce, Real Estate, and Education</strong>: Built scalable and feature-rich platforms tailored to client needs.</li>
+  <li><strong>Booking Systems</strong>: Developed solutions for hotel, travel, and restaurant industries to optimize operations and enhance user engagement.</li>
+  <li><strong>Healthcare, Insurance, and SAAS</strong>: Engineered secure and reliable systems for sensitive and high-demand environments.</li>
+</ul>
+
+<h2>🔧 My Expertise Includes</h2>
+<ul>
+  <li>Back-End and Front-End Development</li>
+  <li>Solutions Architecture</li>
+  <li>DevOps Engineering</li>
+  <li>Full-Stack Development</li>
+  <li>Technical Product Management</li>
+</ul>
+
+<p>
+I thrive on solving complex challenges, creating elegant interfaces, and ensuring every project I deliver stands out for its quality and innovation. Let's build something extraordinary together!
+</p>
+
+<h2>📫 Connect with Me</h2>
+<p>
+Feel free to check out my work and get in touch!  
+<a href="mailto:youremail@example.com">Email Me</a> | <a href="https://github.com/yourgithubusername">GitHub</a> | <a href="https://www.linkedin.com/in/yourlinkedinusername/">LinkedIn</a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
