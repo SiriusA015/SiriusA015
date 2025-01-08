@@ -6,7 +6,7 @@
 <h1 align="center">Hi there! 👋 I'm a Full-Stack Developer & Casino Project Specialist</h1>
 
 <p>
-I am a seasoned full-stack web and mobile app developer with over <strong>9 years of experience</strong> in commercial software development. My passion lies in transforming ideas into reality through intuitive, high-quality software solutions that prioritize user experience, robust architecture, and clean, maintainable code.
+I am a seasoned full-stack web and mobile app developer with over <strong>11 years of experience</strong> in commercial software development. My passion lies in transforming ideas into reality through intuitive, high-quality software solutions that prioritize user experience, robust architecture, and clean, maintainable code.
 </p>
 
 <h2>💼 Industries I've Worked In</h2>
