@@ -33,7 +33,7 @@ I thrive on solving complex challenges, creating elegant interfaces, and ensurin
 <h2>📫 Connect with Me</h2>
 <p>
 Feel free to check out my work and get in touch!  
-<a href="mailto:youremail@example.com">Email Me</a> | <a href="https://github.com/yourgithubusername">GitHub</a> | <a href="https://www.linkedin.com/in/yourlinkedinusername/">LinkedIn</a>
+<a href="mailto:sirius.a015@gmail.com">Email Me</a> | <a href="https://github.com/SiriusA015">GitHub</a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
